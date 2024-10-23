@@ -3,24 +3,24 @@ This repo shows how to build, secure, and protect a cloud app that hosts a cyber
 
 I used Microsoft Azure to build and host the app.  Then, I secured it with an SSL certificate and finally added additional security features to ensure it remained protected.
 
-## Project Objectives
+## Project Overview
 ### Phase 1 - Build
-Create Azure web app 
-Choose domain
-Deploy a container on web app
-Make customizations
+A. Create Azure web app <br>
+B. Choose domain <br>
+C. Deploy a container on web app <br>
+D. Make customizations <br>
 
 ### Phase 2 - Secure
-Create a Key Vault
-Create a self-signed certificate
-Import and bind self-signed certificate to web app
-Create and bind an app service managed certificate
+E. Create a Key Vault <br>
+F. Create a self-signed certificate <br>
+G. Import and bind self-signed certificate to web app <br>
+H. Create and bind an app service managed certificate <br>
 
 ### Phase 3 - Protect
-Create a front door
-Analyze WAF rule sets
-Configure custom WAF rules
-Analyze/remediate security center recommendations
+I. Create a front door <br>
+J. Analyze WAF (Web Application Firewall) rule sets <br>
+K. Configure custom WAF rules <br>
+L. Analyze/remediate security center recommendations <br>
 
 
 
